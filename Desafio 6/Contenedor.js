@@ -34,7 +34,7 @@ class Contenedor {
         try {
             return this.products.find(product => product.id == parseInt(idProduct))
         } catch (error) {
-            throw new Error('Hubo un error al buscar')
+            throw new Error("Hubo un error al buscar")
         }
     }
 
