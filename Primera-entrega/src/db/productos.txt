@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "timestamp": "12/05/2022 3:00:50 PM",
+    "nombre": "iPhone 11 128gb",
+    "descripcion": "Color red",
+    "codigo": "data.codigo",
+    "foto": "data.foto",
+    "precio": " data.precio",
+    "stock": "data.stock"
+  },
+  {
+    "id": 2,
+    "timestamp": "12/05/2022 3:02:52 PM",
+    "nombre": "iPhone 11 pro 128gb",
+    "descripcion": "Color gold",
+    "codigo": "data.codigo",
+    "foto": "data.foto",
+    "precio": " data.precio",
+    "stock": "data.stock"
+  },
+  {
+    "id": 3,
+    "timestamp": "12/05/2022 3:04:54 PM",
+    "nombre": "iPhone 11 pro 256gb",   
+    "descripcion": "Color space gray",
+    "codigo": "data.codigo",
+    "foto": "data.foto",
+    "precio": " data.precio",
+    "stock": "data.stock"
+  },
+  {
+    "id": 4,
+    "timestamp": "12/05/2022 3:06:55 PM",
+    "nombre": "iPhone 12 128gb",
+    "descripcion": "Color blue",
+    "codigo": "data.codigo",
+    "foto": "data.foto",
+    "precio": " data.precio",
+    "stock": "data.stock"
+  }
+]
