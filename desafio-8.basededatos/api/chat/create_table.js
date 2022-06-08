@@ -14,3 +14,13 @@ knexSqlite.schema.hasTable('chatTabla').then(async (exists) => {
         console.log('La tabla ya existe, no se ha realizado ninguna acción')
     }
 })
+
+db.createUser(
+    {
+        user: "Lector",
+        pwd: "asd456",
+        roles: [
+            { role: "read", db: "eccomerse" }
+        ]
+    }
+)
